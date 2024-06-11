@@ -1,0 +1,88 @@
+@media (max-width: 90em) {
+  .hero {
+    max-width: 130rem;
+  }
+
+  /* about */
+
+  .about {
+    max-width: 130rem;
+    padding-bottom: 0rem;
+  }
+  .about-content .left img {
+    max-width: 80%;
+  }
+  .about-content .right {
+    padding: 5rem 0rem;
+  }
+  .about .about-content {
+    gap: 0;
+  }
+
+  /* project section */
+  .section-projects {
+    max-width: 130rem;
+    margin: auto;
+  }
+
+  /* skills */
+
+  .skill {
+    max-width: 100rem;
+  }
+}
+
+/* contact */
+.contact {
+  max-width: 120rem;
+}
+
+@media (max-width: 1138px) {
+  .about {
+    padding: 0rem 3rem;
+  }
+  .about-content .right p {
+    padding: 2rem 0rem;
+  }
+
+  .projects h2 {
+    font-size: 2.5rem;
+  }
+  .btn-p {
+    padding: 1rem 1rem !important;
+  }
+
+  /* projects */
+}
+
+@media (max-width: 900px) {
+  .projects {
+    padding: 2rem;
+  }
+  .btn-p {
+    padding: 1rem 1rem !important;
+  }
+}
+
+@media (max-width: 800px) {
+  .contact-inputs {
+    width: 80vw;
+  }
+  .contact-right {
+    display: none;
+  }
+  @media (max-width: 700px) {
+    .footerNav ul {
+      flex-direction: column;
+    }
+    .footerNav ul li {
+      width: 100%;
+      text-align: center;
+      margin: 10px;
+    }
+    .socialIcons a {
+      padding: 8px;
+      margin: 4px;
+    }
+  }
+}
