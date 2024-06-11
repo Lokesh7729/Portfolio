@@ -20,10 +20,3 @@ You can view the live demo of my portfolio [here](https://lokesh7729.github.io/c
 - **CSS3:** For styling and layout.
 - **JavaScript:** For interactive elements and functionality.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Lokesh7729/codsoft_task2_Portfolio.git
