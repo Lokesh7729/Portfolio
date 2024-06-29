@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! This project showcases my skills an
 
 ## Demo
 
-You can view the live demo of my portfolio [here](https://lokesh7729.github.io/codsoft_task2_Portfolio/).
+You can view the live demo of my portfolio [here](https://lokesh7729.github.io/Portfolio/).
 
 ## Features
 
